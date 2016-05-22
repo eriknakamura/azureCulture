@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="com.intel.iotdevkit.java.remoteJavaIoTApplication">
+<stringAttribute key="com.intel.core.launch.launched_target" value="AgrowBot"/>
+<booleanAttribute key="com.intel.iotdevkit.java.attachOutputToConsole" value="true"/>
+<booleanAttribute key="com.intel.iotdevkit.java.customRemoteDebugPort" value="false"/>
+<stringAttribute key="com.intel.iotdevkit.java.remoteDebugPort" value="8005"/>
+<stringAttribute key="com.intel.iotdevkit.launch.config.default" value="AgrowBot"/>
+<stringAttribute key="org.eclipse.debug.core.REMOTE_TCP" value="AgrowBot"/>
+<listAttribute key="org.eclipse.debug.ui.favoriteGroups">
+<listEntry value="org.eclipse.debug.ui.launchGroup.debug"/>
+<listEntry value="org.eclipse.debug.ui.launchGroup.run"/>
+</listAttribute>
+<booleanAttribute key="org.eclipse.jdt.launching.ALLOW_TERMINATE" value="true"/>
+<mapAttribute key="org.eclipse.jdt.launching.CONNECT_MAP">
+<mapEntry key="hostname" value="10.10.22.88"/>
+<mapEntry key="port" value="8077"/>
+<mapEntry key="timeout" value="2000"/>
+</mapAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="AgrowBot"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="AgrowBot"/>
+<booleanAttribute key="org.eclipse.jdt.launching.STOP_IN_MAIN" value="true"/>
+<stringAttribute key="org.eclipse.jdt.launching.VM_CONNECTOR_ID" value="org.eclipse.jdt.launching.socketAttachConnector"/>
+</launchConfiguration>
